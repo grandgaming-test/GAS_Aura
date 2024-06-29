@@ -73,3 +73,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /Aura/Saved
+/Aura/Intermediate
+/Aura/Binaries
+Aura/UpgradeLog.htm
+Aura/.vsconfig
